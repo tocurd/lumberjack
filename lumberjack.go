@@ -125,7 +125,7 @@ var (
 	// megabyte is the conversion factor between MaxSize and bytes.  It is a
 	// variable so tests can mock it out and not need to write megabytes of data
 	// to disk.
-	megabyte = 1024 * 1024
+	megabyte = 1024
 )
 
 // Write implements io.Writer.  If a write would cause the log file to be larger
