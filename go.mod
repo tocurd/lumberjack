@@ -1,3 +1,3 @@
-module github.com/tocurd/lumberjack/v2
+module github.com/tocurd/lumberjack
 
 go 1.13
